@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Coffee</string>
+    <string name="Topping">Toppings</string>
+    <string name="Quantity">Quantity</string>
+    <string name="WhippedCream">Add WhippedCream</string>
+    <string name="Chocolate">Add Chocolate</string>
+    <string name="Total">Total</string>
+    <string name="ThankYou">Thank You!</string>
+    <string name="Address">Address</string>
+    <string name="Thankyou" />
+
+</resources>
