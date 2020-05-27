@@ -10,7 +10,8 @@ This is Online Coffee Ordering App with user-easy interactive features. The app 
 
 ![](https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-203311.jpg)
 
-User Input 
+**User Input**
+
 ![](https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-203336.jpg)
 
 Transfering the user input(order) to the coffee shop via email
