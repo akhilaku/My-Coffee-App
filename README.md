@@ -18,5 +18,5 @@ This is Online Coffee Ordering App with user-easy interactive features. The app 
 
 ![](https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-203339_Android%20System.jpg)
 
-The Auto Filled details in the user email, including "From Address", "To Address", "Subject" and Order details are Autofilled. The user only has to click on the send button in the email.
+**The Auto Filled details in the user email, including "From Address", "To Address", "Subject" and Order details are Autofilled.** The user only has to click on the send button in the email.
 ![](https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-203346_Gmail.jpg)
