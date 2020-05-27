@@ -6,7 +6,8 @@ This is Online Coffee Ordering App with user-easy interactive features. The app 
 ![](https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-211256_Gallery.jpg)
 
 
-The opening Screen of the App
+**The opening Screen of the App**
+
 ![](https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-203311.jpg)
 
 User Input 
