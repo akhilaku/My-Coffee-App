@@ -8,7 +8,7 @@ This is Online Coffee Ordering App with user-easy interactive features. The app 
 
 **The opening Screen of the App**
 
-![](https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-203311.jpg)
+<img src=https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-203311.jpg width=369 height=800)
 
 **User Input**
 
