@@ -3,8 +3,9 @@ This is Online Coffee Ordering App with user-easy interactive features. The app 
  
 ### **The App Icon In the Android Device**
 
-![](https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-211256_Gallery.jpg)
-
+<p align="center">
+<kbd><img src=https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-211256_Gallery.jpg width=369 height=800/></kbd>
+</P>
 
 **The opening Screen of the App**
 
