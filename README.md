@@ -33,5 +33,5 @@
 **The Auto Filled details in the user email, including "From Address", "To Address", "Subject" and Order details are Autofilled.** **The user only has to click on the send button in the email.**
 
 <p align="center">
-<kbd><img src=https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-203346_Gmail.jpg width=369 height=800><kbd>
+<kbd><img src=https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-203346_Gmail.jpg width=369 height=800></kbd>
 </p>
