@@ -23,7 +23,7 @@
 ### **User Input**
 
 <p align="center">
-<kbd><img src=https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-203336.jpg width=369 height=800/><kbd>
+<kbd><img src=https://github.com/akhilaku/My-Coffee-App/blob/master/Screenshot_20200512-203336.jpg width=369 height=800/></kbd>
 </p>
 
 ---
